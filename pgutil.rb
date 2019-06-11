@@ -2,9 +2,9 @@
 class Pgutil < Formula
   desc ""
   homepage ""
-  url "https://github.com/sjansen/pgutil/releases/download/v0.1.0-beta.2/pgutil_0.1.0-beta.2_darwin_amd64.tar.gz"
-  version "0.1.0-beta.2"
-  sha256 "f748622da40388147b83fe879fce14db6c3b347e62704a85fc5cb89d42785332"
+  url "https://github.com/sjansen/pgutil/releases/download/v0.1.0-beta.3/pgutil_0.1.0-beta.3_darwin_amd64.tar.gz"
+  version "0.1.0-beta.3"
+  sha256 "ecd4284b60a6b81597ad6efc75de2d9cfdabf6ccf23373b5b6d667c1a8d19787"
 
   def install
     bin.install "pgutil"
